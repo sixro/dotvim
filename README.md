@@ -6,6 +6,7 @@
   * [Introduction](#intro)
   * [How to install a new plugin](#install-plugin)
   * [Suggested plugins](#suggested-plugins)
+  * [Colors](#colors)
   * [Awesome videos](#awesome-videos)
 
 
@@ -52,6 +53,15 @@ I suggest to install in the same way even `vim-pathogen`. The `vimrc` assume tha
   * [vim-medic_chalk](https://github.com/ParamagicDev/vim-medic_chalk): an amazing colorscheme
 
 
+## <a name="colors"></a>Colors
+
+In order to create a `colorscheme` you can run the following command:
+```
+    :so $VIMRUNTIME/syntax/hitest.vim
+```
+in order to see all `syntax` that can be highlighted.
+
+
 ## <a name="awesome-videos"></a>Awesome videos
 
   * [Synchronizing plugins with git submodules and pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/) by vimcasts.org
@@ -64,3 +74,6 @@ I suggest to install in the same way even `vim-pathogen`. The `vimrc` assume tha
     Show how to use vimwiki to collect personal doc, journaling, checklists, etc...
   * [UltiSnips Screencast - Ep 2 - Creating Basic Snippets](https://youtu.be/f_WQxYgK0Pk) by [Holger Rapp](https://www.youtube.com/channel/UCFVf1QjNTTLaDN_2uAY7_7Q)
     Explain how to create a snippet made using `ultisnips`
+  * [More Instantly Better Vim](https://youtu.be/aHm36-na4-4) by Damian Conway at OSCON 2013
+    Lots of fun such as the StarWars intro :)
+
