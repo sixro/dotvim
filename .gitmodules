@@ -10,3 +10,9 @@
 [submodule "bundle/vim-java-maven"]
 	path = bundle/vim-java-maven
 	url = https://github.com/sixro/vim-java-maven/
+[submodule "bundle/alternate.vim"]
+	path = bundle/alternate.vim
+	url = https://github.com/compactcode/alternate.vim
+[submodule "bundle/open.vim"]
+	path = bundle/open.vim
+	url = https://github.com/compactcode/open.vim

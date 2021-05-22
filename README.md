@@ -46,6 +46,8 @@ I suggest to install in the same way even `vim-pathogen`. The `vimrc` assume tha
   * [vim-pathogen](https://github.com/tpope/vim-pathogen): to manage multiple plugins
   * [vim-surround](https://github.com/tpope/vim-surround): to "wrap" text objects with characters, brackets, etc...
   * [factorus](https://github.com/apalmer1377/factorus): to allow code refactoring
+  * [alternate.vim](https://github.com/compactcode/alternate.vim): add helpers to define/handle alternate buffers
+  * [open.vim](https://github.com/compactcode/open.vim): add command usable with `alternate.vim`
 
 
 ## <a name="awesome-videos"></a>Awesome videos
