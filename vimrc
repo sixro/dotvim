@@ -5,6 +5,7 @@ let mapleader=","
 
 set hidden
 
+let g:javamaven_debug=1
 
 " ==  Markdown  ================================================================
 
