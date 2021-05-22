@@ -6,6 +6,7 @@
   * [Introduction](#intro)
   * [How to install a new plugin](#install-plugin)
   * [Suggested plugins](#suggested-plugins)
+  * [Awesome videos](#awesome-videos)
 
 
 ## <a name="intro"></a>Introduction
@@ -33,6 +34,8 @@ I suggest to install in the same way even `vim-pathogen`. The `vimrc` assume tha
 
 ## <a name="suggested-plugins"></a>Suggested plugins
 
-  * [vim-pathogen](https://github.com/tpope/vim-pathogen)
-  * [vim-surround](https://github.com/tpope/vim-surround)
-  * [factorus](https://github.com/apalmer1377/factorus)
+  * [vim-pathogen](https://github.com/tpope/vim-pathogen): to manage multiple plugins
+  * [vim-surround](https://github.com/tpope/vim-surround): to "wrap" text objects with characters, brackets, etc...
+  * [factorus](https://github.com/apalmer1377/factorus): to allow code refactoring
+
+## <a name="awesome-videos"></a>Awesome videos
