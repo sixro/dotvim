@@ -16,3 +16,6 @@
 [submodule "bundle/vim-java-maven"]
 	path = bundle/vim-java-maven
 	url = https://github.com/sixro/vim-java-maven/
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips
