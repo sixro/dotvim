@@ -19,3 +19,6 @@
 [submodule "bundle/ultisnips"]
 	path = bundle/ultisnips
 	url = https://github.com/SirVer/ultisnips
+[submodule "bundle/vim-medic_chalk"]
+	path = bundle/vim-medic_chalk
+	url = https://github.com/ParamagicDev/vim-medic_chalk
