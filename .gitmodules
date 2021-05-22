@@ -1,0 +1,9 @@
+[submodule "bundle/factorus"]
+	path = bundle/factorus
+	url = https://github.com/apalmer1377/factorus
+[submodule "bundle/vim-pathogen"]
+	path = bundle/vim-pathogen
+	url = https://github.com/tpope/vim-pathogen
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = https://github.com/tpope/vim-surround/
