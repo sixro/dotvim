@@ -18,10 +18,14 @@ To use it, assuming that you are in your `$HOME` folder, use the following comma
 ```
     git clone https://github.com/sixro/vim-java-maven/ .vim
 ```
-To install/update all plugins, go under the `.vim` folder and execute:
+To install all plugins, go under the `.vim` folder and execute:
 ```
     git submodule init
     git submodule update
+```
+To update all plugin:
+```
+    git submodule update --recursive --remote
 ```
 
 
