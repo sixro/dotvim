@@ -38,4 +38,12 @@ I suggest to install in the same way even `vim-pathogen`. The `vimrc` assume tha
   * [vim-surround](https://github.com/tpope/vim-surround): to "wrap" text objects with characters, brackets, etc...
   * [factorus](https://github.com/apalmer1377/factorus): to allow code refactoring
 
+
 ## <a name="awesome-videos"></a>Awesome videos
+
+  * [Vim For Rails Developers](https://youtu.be/9J2OjH8Ao_A) by Ben Orenstein  
+    Contains some very good tips on how to use `vim` for Rails development that could be applied also to other languages
+  * [Creating vim macros and saving them for later](https://youtu.be/_3L0d8wAm_8) by Ben Orenstein  
+    Shows how to create a macro to extract some code in a method (a sort of `BeforeEach` used in `JUnit`)
+  * [Productivity Setup with Vimwiki, Taskwarrior and MDwiki: Part 1](https://youtu.be/A1YgbAp5YRc)  
+    Show how to use vimwiki to collect personal doc, journaling, checklists, etc...
