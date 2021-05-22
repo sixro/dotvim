@@ -62,3 +62,5 @@ I suggest to install in the same way even `vim-pathogen`. The `vimrc` assume tha
     Shows how to create a macro to extract some code in a method (a sort of `BeforeEach` used in `JUnit`)
   * [Productivity Setup with Vimwiki, Taskwarrior and MDwiki: Part 1](https://youtu.be/A1YgbAp5YRc)  
     Show how to use vimwiki to collect personal doc, journaling, checklists, etc...
+  * [UltiSnips Screencast - Ep 2 - Creating Basic Snippets](https://youtu.be/f_WQxYgK0Pk) by [Holger Rapp](https://www.youtube.com/channel/UCFVf1QjNTTLaDN_2uAY7_7Q)
+    Explain how to create a snippet made using `ultisnips`
