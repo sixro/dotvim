@@ -48,6 +48,8 @@ I suggest to install in the same way even `vim-pathogen`. The `vimrc` assume tha
   * [factorus](https://github.com/apalmer1377/factorus): to allow code refactoring
   * [alternate.vim](https://github.com/compactcode/alternate.vim): add helpers to define/handle alternate buffers
   * [open.vim](https://github.com/compactcode/open.vim): add command usable with `alternate.vim`
+  * [ultisnips](https://github.com/SirVer/ultisnips): to create snippet of codes
+  * [vim-medic_chalk](https://github.com/ParamagicDev/vim-medic_chalk): an amazing colorscheme
 
 
 ## <a name="awesome-videos"></a>Awesome videos
