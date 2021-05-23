@@ -65,7 +65,7 @@ in order to see all `syntax` that can be highlighted.
 
 ## <a name="awesome-videos"></a>Awesome videos
 
-  * [Synchronizing plugins with git submodules and pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/) by vimcasts.org
+  * [Synchronizing plugins with git submodules and pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/) by vimcasts.org  
     Shows how to handle plugins and vim configuration files
   * [Vim For Rails Developers](https://youtu.be/9J2OjH8Ao_A) by Ben Orenstein  
     Contains some very good tips on how to use `vim` for Rails development that could be applied also to other languages
@@ -73,21 +73,21 @@ in order to see all `syntax` that can be highlighted.
     Shows how to create a macro to extract some code in a method (a sort of `BeforeEach` used in `JUnit`)
   * [Productivity Setup with Vimwiki, Taskwarrior and MDwiki: Part 1](https://youtu.be/A1YgbAp5YRc)  
     Show how to use vimwiki to collect personal doc, journaling, checklists, etc...
-  * [More Instantly Better Vim](https://youtu.be/aHm36-na4-4) by Damian Conway at OSCON 2013
+  * [More Instantly Better Vim](https://youtu.be/aHm36-na4-4) by Damian Conway at OSCON 2013  
     Lots of fun such as the StarWars intro :)
-  * [A Vim Environment For Perl Developers](https://youtu.be/oka4wcsrg0c) by Damian Conway at Perl Conference 2017
+  * [A Vim Environment For Perl Developers](https://youtu.be/oka4wcsrg0c) by Damian Conway at Perl Conference 2017  
     Shows how he wrote some macros, scripts, etc... to work on Perl. He is the 1st I have seen mentioning a refactor script (he made it in Perl)
-  * [Keynote: A Simple Matter Of Programming](https://youtu.be/fVnmYzJfy5s) by Damian Conway at a Perl Conference
+  * [Keynote: A Simple Matter Of Programming](https://youtu.be/fVnmYzJfy5s) by Damian Conway at a Perl Conference  
     Shows how he wrote a plugin to refactor, highlight code, etc... because all others IDE did
 	it not perfectly
 
 ### <a name="ultisnips"></a>UltiSnips
 
-  * [Meet UltiSnips](http://vimcasts.org/episodes/meet-ultisnips/) by vimcasts.org
+  * [Meet UltiSnips](http://vimcasts.org/episodes/meet-ultisnips/) by vimcasts.org  
     Show how to setup your 1st snippet with `UltiSnips`
-  * [UltiSnips Screencast - Ep 2 - Creating Basic Snippets](https://youtu.be/f_WQxYgK0Pk) by [Holger Rapp](https://www.youtube.com/channel/UCFVf1QjNTTLaDN_2uAY7_7Q)
+  * [UltiSnips Screencast - Ep 2 - Creating Basic Snippets](https://youtu.be/f_WQxYgK0Pk) by [Holger Rapp](https://www.youtube.com/channel/UCFVf1QjNTTLaDN_2uAY7_7Q)  
     Explain how to create a snippet made using `UltiSnips`
-  * [Using Python interpolation in UltiSnips snippets](http://vimcasts.org/episodes/ultisnips-python-interpolation/) by vimcasts.org
+  * [Using Python interpolation in UltiSnips snippets](http://vimcasts.org/episodes/ultisnips-python-interpolation/) by vimcasts.org  
 	Shows how to use python interpolation
-  * [Using selected text in UltiSnips snippets](http://vimcasts.org/episodes/ultisnips-visual-placeholder/) by vimcasts.org
+  * [Using selected text in UltiSnips snippets](http://vimcasts.org/episodes/ultisnips-visual-placeholder/) by vimcasts.org  
     Shows advanced usages of `UltiSnips` with *visual blocks* using the `${VISUAL}` statement
