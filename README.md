@@ -7,8 +7,10 @@
   * [How to install a new plugin](#install-plugin)
   * [Suggested plugins](#suggested-plugins)
   * [Colors](#colors)
-  * [Awesome videos](#awesome-videos)
-    * [UltiSnips](#ultisnips)
+  * [Resources online](#resources-online)
+    * [Articles](#articles)
+    * [Videos](#videos)
+	  * [UltiSnips](#ultisnips)
 
 
 ## <a name="intro"></a>Introduction
@@ -62,8 +64,17 @@ In order to create a `colorscheme` you can run the following command:
 ```
 in order to see all `syntax` that can be highlighted.
 
+## <a name="resources-online"></a>Resources online
 
-## <a name="awesome-videos"></a>Awesome videos
+### <a name="articles"></a>Articles
+
+  * [Follow my Leader](http://vimcasts.org/blog/2014/02/follow-my-leader/) by vimcasts.org  
+    Shows that sometimes, instead of using mappings on <Leader> key, you can use operators
+	and motions as keys of your plugins. There is also an interesting article where [Tim Pope](https://github.com/tpope/)
+	discuss this topic with [Andrew Radev](https://github.com/AndrewRadev)
+
+
+### <a name="videos"></a>Videos
 
   * [Synchronizing plugins with git submodules and pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/) by vimcasts.org  
     Shows how to handle plugins and vim configuration files
@@ -88,7 +99,7 @@ in order to see all `syntax` that can be highlighted.
     Shows how he wrote a plugin to refactor, highlight code, etc... because all others IDE did
 	it not perfectly
 
-### <a name="ultisnips"></a>UltiSnips
+#### <a name="ultisnips"></a>UltiSnips
 
   * [Meet UltiSnips](http://vimcasts.org/episodes/meet-ultisnips/) by vimcasts.org  
     Show how to setup your 1st snippet with `UltiSnips`
