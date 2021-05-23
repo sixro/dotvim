@@ -76,4 +76,6 @@ in order to see all `syntax` that can be highlighted.
     Explain how to create a snippet made using `ultisnips`
   * [More Instantly Better Vim](https://youtu.be/aHm36-na4-4) by Damian Conway at OSCON 2013
     Lots of fun such as the StarWars intro :)
+  * [A Vim Environment For Perl Developers](https://youtu.be/oka4wcsrg0c) by Damian Conway at Perl Conference 2017
+    Shows how he wrote some macros, scripts, etc... to work on Perl. He is the 1st I have seen mentioning a refactor script (he made it in Perl)
 
