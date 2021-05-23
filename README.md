@@ -76,6 +76,13 @@ in order to see all `syntax` that can be highlighted.
 
 ### <a name="videos"></a>Videos
 
+All videos found on the following websites are very good:
+  * [vimcasts.org](http://vimcasts.org/episodes/page/8/)
+  * [Vim](https://www.youtube.com/playlist?list=PLy7Kah3WzqrEjsuvhT46fr28Q11oa5ZoI) by [TheFrugalComputerGuy](https://www.youtube.com/user/TheFrugalComputerGuy)
+
+
+Other videos that I liked a lot:
+
   * [Synchronizing plugins with git submodules and pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/) by vimcasts.org  
     Shows how to handle plugins and vim configuration files
   * [An introduction to vspec](http://vimcasts.org/episodes/an-introduction-to-vspec/) by vimcasts.org  
@@ -83,6 +90,8 @@ in order to see all `syntax` that can be highlighted.
   * [Project-wide find and replace](http://vimcasts.org/episodes/project-wide-find-and-replace/) by vimcasts.org  
     Shows how to use `substitute`, `argdo`, `vimgrep` and an utility `Qargs` to update the `args` with files
 	matched by `vimgrep`
+  * [Vim (09) - Substitute (Search and Replace)](https://youtu.be/9Sodnanx_yI?t=323) by TheFrugalComputerGuy  
+    At that time of the video, he explains how to ask for a confirm during a search and replace
   * [Search multiple files with :vimgrep](http://vimcasts.org/episodes/search-multiple-files-with-vimgrep/) by vimcasts.org  
     Shows how to use `vimgrep` and suggests for larger projects to use different tools
   * [The file explorer](http://vimcasts.org/episodes/the-file-explorer/) by vimcasts.org  
