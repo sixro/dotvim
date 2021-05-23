@@ -152,3 +152,10 @@ vmap <silent> D <Plug>SchleppDup
 " vim-java-maven
 " let g:javamaven_debug=1
 
+
+" ==  Experiments  =============================================================
+function! TestInput()
+		let name = input("Insert your name:")
+		echo name
+endfunction
+nmap <silent> <Leader>t :call TestInput()<CR>

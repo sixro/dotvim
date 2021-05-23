@@ -78,4 +78,7 @@ in order to see all `syntax` that can be highlighted.
     Lots of fun such as the StarWars intro :)
   * [A Vim Environment For Perl Developers](https://youtu.be/oka4wcsrg0c) by Damian Conway at Perl Conference 2017
     Shows how he wrote some macros, scripts, etc... to work on Perl. He is the 1st I have seen mentioning a refactor script (he made it in Perl)
+  * [Keynote: A Simple Matter Of Programming](https://youtu.be/fVnmYzJfy5s) by Damian Conway at a Perl Conference
+    Shows how he wrote a plugin to refactor, highlight code, etc... because all others IDE did
+	it not perfectly
 
