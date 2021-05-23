@@ -43,7 +43,7 @@ hi Constant ctermfg=160
 hi Underlined ctermfg=0 term=underline
 hi Todo ctermfg=15 ctermbg=34
 
-hi Visual ctermfg=0 ctermbg=229
+hi Visual ctermfg=0 ctermbg=11
 hi LineNr ctermfg=247 ctermbg=255
 
 " See here for java syntax: https://github.com/vim/vim/blob/master/runtime/syntax/java.vim
