@@ -31,10 +31,10 @@ endif
 " See here for colors: https://jonasjacek.github.io/colors/
 set background=light
 hi clear
-hi Normal ctermbg=254 ctermfg=237
-hi Comment ctermfg=247
-hi Ignore ctermfg=247
-hi Statement ctermfg=242
+hi Normal ctermbg=256 ctermfg=0
+hi Comment ctermfg=250
+hi Ignore ctermfg=250
+hi Statement ctermfg=240
 hi Special ctermfg=0
 hi PreProc ctermfg=0
 hi Identifier ctermfg=0
@@ -44,7 +44,7 @@ hi Underlined ctermfg=0 term=underline
 hi Todo ctermfg=15 ctermbg=34
 
 hi Visual ctermfg=0 ctermbg=229
-hi LineNr ctermfg=247 ctermbg=253
+hi LineNr ctermfg=247 ctermbg=255
 
 " See here for java syntax: https://github.com/vim/vim/blob/master/runtime/syntax/java.vim
 hi def link javaStorageClass Statement
@@ -135,6 +135,10 @@ set path=$PWD/**
 " in a header of level 2 such as:
 "     ## <a name="awesome-videos"></a>Awesome videos
 autocmd FileType md,markdown map <Leader>h 0df[dt]$p0c3l## <a name="<ESC>/)<CR>cl"></a><ESC>
+" <Leader>b
+" Transform a visual selected text in bold (**xxx**), because it vim-surround
+" cannot be used in this case
+autocmd FileType md,markdown vmap <silent> <Leader>b di**<Esc>pi**<Esc>
 
 
 " ==  Plugins  =================================================================
@@ -146,5 +150,5 @@ vmap <silent> <right> <Plug>SchleppRight
 vmap <silent> D <Plug>SchleppDup
 
 " vim-java-maven
-let g:javamaven_debug=1
+" let g:javamaven_debug=1
 
