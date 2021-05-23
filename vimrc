@@ -73,6 +73,12 @@ hi markdownH6 ctermfg=91
 hi def link markdownHeadingDelimiter Comment
 hi def link markdownUrlDelimiter Comment
 hi def link markdownUrlTitleDelimiter Comment
+" Inner anchors become just as comments
+hi def link htmlTag     Comment
+hi def link htmlTagName Comment
+hi def link htmlString  Comment
+hi def link htmlArg     Comment
+hi def link htmlEndTag  Comment
 
 " Search
 set hlsearch
@@ -80,6 +86,14 @@ set incsearch
 nnoremap <Leader><Space> :nohlsearch<CR>
 
 nmap <silent> <Leader>C :so $VIMRUNTIME/syntax/hitest.vim<CR><C-w>t<C-w>H<C-w>l
+" Show syntax highlighting groups for word under cursor
+nmap <leader>z :call <SID>SynStack()<CR>
+function! <SID>SynStack()
+  if !exists("*synstack")
+    return
+  endif
+  echo map(synstack(line('.'), col('.')), 'synIDattr(v:val, "name")')
+endfunc
 " Improve performance of macros avoiding redrawing continuosly
 set lazyredraw
 set foldenable
