@@ -69,6 +69,9 @@ in order to see all `syntax` that can be highlighted.
     Shows how to handle plugins and vim configuration files
   * [An introduction to vspec](http://vimcasts.org/episodes/an-introduction-to-vspec/) by vimcasts.org  
     An introduction to [Vspec](https://github.com/kana/vim-vspec) to make tests on Vim scripts
+  * [Project-wide find and replace](http://vimcasts.org/episodes/project-wide-find-and-replace/) by vimcasts.org  
+    Shows how to use `substitute`, `argdo`, `vimgrep` and an utility `Qargs` to update the `args` with files
+	matched by `vimgrep`
   * [Vim For Rails Developers](https://youtu.be/9J2OjH8Ao_A) by Ben Orenstein  
     Contains some very good tips on how to use `vim` for Rails development that could be applied also to other languages
   * [Creating vim macros and saving them for later](https://youtu.be/_3L0d8wAm_8) by Ben Orenstein  
