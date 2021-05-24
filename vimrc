@@ -89,7 +89,7 @@ vmap <silent> <right> <Plug>SchleppRight
 vmap <silent> D <Plug>SchleppDup
 " vim-java-maven
 let g:javamaven_debug=0
-"let g:loaded_javamaven=0
+let g:loaded_javamaven=0
 " vim-mnmlight
 nmap <silent> _s :call mnmlight#ToggleSyntax()<CR>
 nmap <silent> _z :call mnmlight#CheckSynStack()<CR>
