@@ -32,6 +32,10 @@ set foldenable
 vmap > >gv
 vmap < <gv
 
+" Navigate fast in quicklist
+nmap <C-n> :cn<CR>
+nmap <C-p> :cp<CR>
+
 " Edit vimrc on the right and reload it on save
 nmap <silent> <Leader>v :vert sb<CR><C-w>l:e $MYVIMRC<CR>
 nmap <silent> <Leader>V :source $MYVIMRC<CR>
