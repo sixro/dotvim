@@ -22,6 +22,3 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/vim-syntastic/syntastic
-[submodule "bundle/javacomplete"]
-	path = bundle/javacomplete
-	url = https://github.com/vim-scripts/javacomplete
