@@ -96,6 +96,8 @@ Other videos that I liked a lot:
     Shows how to use `vimgrep` and suggests for larger projects to use different tools
   * [The file explorer](http://vimcasts.org/episodes/the-file-explorer/) by vimcasts.org  
     A video about the `netrw` file explorer available in every vim installation
+  * [Testing compiler plugins](https://youtu.be/jaFVNdSJkFI) by [Greg Hurrell](https://www.youtube.com/channel/UCXPHFM88IlFn68OmLwtPmZA)  
+    Shows how to write a `compiler` plugin setting up a `makeprg` and `errorformat` and testing it
   * [Vim For Rails Developers](https://youtu.be/9J2OjH8Ao_A) by Ben Orenstein  
     Contains some very good tips on how to use `vim` for Rails development that could be applied also to other languages
   * [Creating vim macros and saving them for later](https://youtu.be/_3L0d8wAm_8) by Ben Orenstein  

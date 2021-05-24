@@ -46,7 +46,6 @@ augroup END
 
 colorscheme mnmlight
 
-
 " ==  Learning Improvement  ====================================================
 
 " Disable Arrow keys in Escape and Insert mode
@@ -60,14 +59,7 @@ colorscheme mnmlight
 " imap <Left>  <Nop>
 " imap <Right> <Nop>
 
-
-" ==  Development  =============================================================
-
-set path=$PWD/**
-
-
 " ==  Markdown  ================================================================
-
 " <Leader>h
 " Transform a summary item in the following format
 "     * [Awesome videos](#awesome-videos)
@@ -82,7 +74,6 @@ autocmd FileType md,markdown vmap <silent> cb di**<Esc>pi**<Esc>
 autocmd FileType md,markdown vmap <silent> ci di*<Esc>pi*<Esc>
 autocmd FileType md,markdown vmap <silent> cc di`<Esc>pi`<Esc>
 
-
 " ==  Plugins  =================================================================
 " vim-schlepp
 vmap <silent> <up>    <Plug>SchleppUp
@@ -90,16 +81,13 @@ vmap <silent> <down>  <Plug>SchleppDown
 vmap <silent> <left>  <Plug>SchleppLeft
 vmap <silent> <right> <Plug>SchleppRight
 vmap <silent> D <Plug>SchleppDup
-
 " vim-java-maven
-let g:javamaven_debug=1
-
+let g:javamaven_debug=0
 " vim-mnmlight
 nmap <silent> _s :call mnmlight#ToggleSyntax()<CR>
 nmap <silent> _z :call mnmlight#CheckSynStack()<CR>
 nmap <silent> _c :call mnmlight#TestSyntax()<CR>
 nmap <silent> _l :set list! list?<CR>
-
 
 " ==  Experiments  =============================================================
 function! TestInput()
