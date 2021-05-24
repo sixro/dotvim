@@ -32,6 +32,12 @@ set foldenable
 vmap > >gv
 vmap < <gv
 
+" Navigate fast between windows
+nmap <C-h> <C-w>h
+nmap <C-j> <C-w>j
+nmap <C-k> <C-w>k
+nmap <C-l> <C-w>l
+
 " Navigate fast in quicklist
 nmap <C-n> :cn<CR>
 nmap <C-p> :cp<CR>
