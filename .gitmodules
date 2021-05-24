@@ -19,3 +19,6 @@
 [submodule "bundle/vim-schlepp"]
 	path = bundle/vim-schlepp
 	url = https://github.com/zirrostig/vim-schlepp
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/vim-syntastic/syntastic
