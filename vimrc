@@ -11,7 +11,8 @@ set encoding=utf-8
 let mapleader=","
 set hidden          " Avoid the need of save current buffer before switching to another
 set wildmenu
-set relativenumber
+"set relativenumber
+set number
 set autoindent
 set tabstop=4
 set sw=4
@@ -102,4 +103,4 @@ function! TestInput()
 	let name = input("Insert your name:")
 	echo name
 endfunction
-nmap <silent> <Leader>t :call TestInput()<CR>
+"nmap <silent> <Leader>t :call TestInput()<CR>
