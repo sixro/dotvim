@@ -111,6 +111,11 @@ Other videos that I liked a lot:
   * [Keynote: A Simple Matter Of Programming](https://youtu.be/fVnmYzJfy5s) by Damian Conway at a Perl Conference  
     Shows how he wrote a plugin to refactor, highlight code, etc... because all others IDE did
 	it not perfectly
+  * [Let's Play with Vanilla Vim](https://youtu.be/Qn5XdjrRptU) by Hezby Muhammad at vim-jp  
+    A very good recap on how to use Vanilla vim only
+  * [Let Vim Do the Typing](https://youtu.be/3TX3kV3TICU) by George Brocklehurst 
+    A presentation on various topics. I liked the idea of staying as much as you can in normal mode
+
 
 #### <a name="ultisnips"></a>UltiSnips
 
